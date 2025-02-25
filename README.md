@@ -61,7 +61,7 @@ The trained models achieve varying accuracy levels depending on the architecture
 
 ## Contributors
 
-- Your Name (rupammal25@gmail.com)
+- Rupam Mal (rupammal25@gmail.com)
 
 ## License
 
