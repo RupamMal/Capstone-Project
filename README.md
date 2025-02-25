@@ -1,6 +1,6 @@
 # Capstone-Project
 
-# Lung Opacity Detection
+# Lung Opacity Detection (for Pneumonia)
 
 This repository contains deep learning models for detecting lung opacity (whiteness in the lungs) from medical images. The models analyze texture differences between healthy and infected lungs using convolutional neural networks (CNNs).
 
